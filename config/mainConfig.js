@@ -41,7 +41,7 @@ module.exports = {
   auto_read_messages: true,
   auto_typing: true,
   auto_recording: false,
-  mongodb_uri: 'mongodb+srv://aja366746:@cluster0.46jakz1.mongodb.net/?retryWrites=true&w=majority', // Register here: https://mongodb.com/#sign-up
+  mongodb_uri: 'mongodb+srv://aja366746:<aja366746>@cluster0.46jakz1.mongodb.net/?retryWrites=true&w=majority', // Register here: https://mongodb.com/#sign-up
   api: {
     dani: {
       api_url: 'https://daniapi.biz.id',
