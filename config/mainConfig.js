@@ -45,7 +45,7 @@ module.exports = {
   api: {
     dani: {
       api_url: 'https://daniapi.biz.id',
-      api_key: 'Your_API_key' // Register here: https://daniapi.biz.id/#sign-up
+      api_key: 'sk-w1w6kj9ohmns2kn6v' // Register here: https://daniapi.biz.id/#sign-up
     },
     caliph: {
       api_url: 'https://api.caliph.biz.id',
@@ -57,8 +57,8 @@ module.exports = {
     profile_status: 'Bot aktif 24/7'
   },
   owner: {
-    name: ["Your Name"],
-    number: ["628xxx"]
+    name: ["reffbot"],
+    number: ["6287755192308"]
   },
   daily_limit: {
     free: 10,
@@ -67,7 +67,7 @@ module.exports = {
   watermark: {
     sticker: {
       package_name: 'Created by',
-      author_name: 'Your Name'
+      author_name: 'reff bot'
     }
   },
   react: {
